@@ -52,7 +52,7 @@ public class database {
         }
     }
     //задание 2
-    public void printAverageExpenditureByCountries() {
+    public void AverageExpenditureByCountries() {
         try {
             String query = "SELECT country, AVG(expenditure) as avg_expenditure " +
                     "FROM schools " +
@@ -75,7 +75,7 @@ public class database {
 
     //задание 3
 
-    public void printSchoolsWithCriteria() {
+    public void SchoolsByCriteria() {
         try {
             String query = "SELECT * FROM schools " +
                     "WHERE students BETWEEN 5000 AND 7500 OR students BETWEEN 10000 AND 11000 " +
