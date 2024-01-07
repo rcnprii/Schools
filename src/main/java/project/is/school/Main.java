@@ -15,12 +15,12 @@ public class Main {
         db.saveSchools(school);
 
         // Вывод среднего значения расходов
-        db.printAverageExpenditureByCountries();
+        db.AverageExpenditureByCountries();
 
         // Вывод учебного заведения с заданными критериями
-        db.printSchoolsWithCriteria();
+        db.SchoolsByCriteria();
 
-        // Расчет    среднего количества студентов по странам
+        // Расчет среднего количества студентов по странам
         db.calculateAverageStudentsByCountry();
         db.close();
     }
