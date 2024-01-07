@@ -20,7 +20,7 @@ public class Main {
         // Вывод учебного заведения с заданными критериями
         db.printSchoolsWithCriteria();
 
-        // Расчет    среднего количества студентов по странамecho "# Java_project_schools" >> README.md
+        // Расчет    среднего количества студентов по странам
         db.calculateAverageStudentsByCountry();
         db.close();
     }
