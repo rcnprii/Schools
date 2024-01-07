@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1246c035-2d79-4852-81da-c847ead85570" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/950c4b63-09f9-4023-9b03-d817648a92bf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/950c4b63-09f9-4023-9b03-d817648a92bf/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/is.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/is/school/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/is/school/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/is/school/database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/is/school/dto/Schools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Школы.csv" afterDir="false" />
-    </list>
+    <list default="true" id="1246c035-2d79-4852-81da-c847ead85570" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +22,9 @@
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="66a1d283-e294-4330-b232-59a317be4c8e" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -105,7 +89,7 @@
       <workItem from="1704581678502" duration="2831000" />
       <workItem from="1704638872600" duration="1736000" />
       <workItem from="1704644131106" duration="1990000" />
-      <workItem from="1704646153632" duration="35000" />
+      <workItem from="1704646153632" duration="467000" />
     </task>
     <servers />
   </component>
