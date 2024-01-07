@@ -2,7 +2,7 @@
 <dataSource name="is.db">
   <database-model serializer="dbm" dbms="SQLITE" family-id="SQLITE" format-version="4.51">
     <root id="1">
-      <ServerVersion>3.43.0</ServerVersion>
+      <ServerVersion>3.43.0</ServerVersion> 
     </root>
     <collation id="2" parent="1" name="RTRIM"/>
     <collation id="3" parent="1" name="NOCASE"/>
